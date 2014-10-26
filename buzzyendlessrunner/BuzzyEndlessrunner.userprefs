@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/turner.cs">
+    <Files>
+      <File FileName="Assets/scripts/autostartrecording.cs" Line="10" Column="2" />
+      <File FileName="Assets/scripts/autostartautostoprecording.cs" Line="22" Column="19" />
+      <File FileName="Assets/scripts/triggerstartrecording.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/turner.cs" Line="50" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
